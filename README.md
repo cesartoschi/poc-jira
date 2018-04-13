@@ -1,2 +1,2 @@
 # poc-jira
-POC integrate github and Jira
+Repository for test to integrate github and Jira
